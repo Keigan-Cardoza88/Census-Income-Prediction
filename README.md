@@ -3,7 +3,7 @@ A supervised machine learning project that predicts whether an individual's inco
 
 *Project Overview*
 The goal was to create a robust classification model to predict income levels based on demographic and work-related attributes.
-
+ 
 Steps included:
 1. Preprocessing the dataset by handling missing values and encoding features.
 2. Performing exploratory data analysis (EDA) to understand feature relationships.
